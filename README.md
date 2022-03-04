@@ -1,6 +1,4 @@
-# AngelSix YouTube
-Any general files related to the AngelSix YouTube channel
+# Basic WPF
 
-http://www.angelsix.com/youtube
-
-
+### - Folder WPF <br/>
+for studying WPF, C# Programming.
